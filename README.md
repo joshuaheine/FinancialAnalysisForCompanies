@@ -8,8 +8,10 @@ The goal of this project is to show a simple stock analysis, gathering of that d
 
 Last update date: 25/1/2023
 
-Project setup instructions
-Open a terminal on the machine
+## Requirements
+
+* Open a terminal on the machine
+* Run the following command ``
 
 # Clone repo
 git clone https://github.com/joshuaheine/FinancialAnalysisForCompanies.git
